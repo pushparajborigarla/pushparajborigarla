@@ -1,14 +1,11 @@
 # 💫 About Me:
 🎓 B.Tech CSE (2025) | 📍 Bengaluru, India <br>
 💡 Aspiring Software Developer & AI/ML Engineer <br><br>
-
 🔬 Currently focused on AI/ML fundamentals, advanced Prompt Engineering, and mastering DSA for product-based roles. <br><br>
-
 🤝 Open to collaborating on AI/ML, Backend/Full-Stack, Open Source, and impact-driven tech projects. <br><br>
-
 🛠 <b>Skills:</b> Python, SQL, HTML/CSS, ML & Data Science, DSA, Git/GitHub, Prompt Engineering <br><br>
-
 💬 Happy to discuss AI/ML, Python, placements, and career growth strategies.
+⚡ Fun fact<br>→ I’m a Computer Science Engineer who dreams big — from building AI systems to becoming a professional cricketer 🏏
 
 
 
