@@ -1,5 +1,15 @@
 # 💫 About Me:
-🚀 About Me :<br><br>🎓 I’m a B.Tech Computer Science Engineering Graduate (2025)<br>📍 Based in Bengaluru, India<br>💻 Passionate about Software Development, AI & ML  <br><br>🔭 I’m currently working on<br>→ Deep diving into AI & Machine Learning fundamentals and real-world implementations<br>→ Developing advanced Prompt Engineering skills to unlock the full potential of AI systems<br>→ Strengthening DSA for product-based companies<br><br>👯 I’m looking to collaborate on<br>→ AI/ML Projects<br>→ Backend / Full-Stack Development<br>→ Open Source Contributions<br>→ Startup or Impact-driven Tech Projects<br><br>🤝 I’m looking for opportunities in<br>→ Software Developer / SDE Roles<br>→ AI/ML Engineer Roles<br>→ Associate Engineer / Product-based Companies<br><br>🌱 My Core Skills<br>→ Programming: Python, HTML, CSS<br>→ Machine Learning & Data Science<br>→ Prompt Engineering<br>→ Data Structures & Algorithms<br>→ Project Management Skills<br>→ SQL & Database Management<br>→ Git & GitHub<br><br>💬 Ask me about<br>→ AI/ML/Prompt Engineering/Python<br>→ Resume & Placement Preparation<br>→ Career Strategy for Freshers<br>→ Balancing Tech & Personal Growth<br><br>⚡ Fun fact<br>→ I’m a Computer Science Engineer who dreams big — from building AI systems to becoming a professional cricketer 🏏
+🎓 B.Tech CSE (2025) | 📍 Bengaluru, India <br>
+💡 Aspiring Software Developer & AI/ML Engineer <br><br>
+
+🔬 Currently focused on AI/ML fundamentals, advanced Prompt Engineering, and mastering DSA for product-based roles. <br><br>
+
+🤝 Open to collaborating on AI/ML, Backend/Full-Stack, Open Source, and impact-driven tech projects. <br><br>
+
+🛠 <b>Skills:</b> Python, SQL, HTML/CSS, ML & Data Science, DSA, Git/GitHub, Prompt Engineering <br><br>
+
+💬 Happy to discuss AI/ML, Python, placements, and career growth strategies.
+
 
 
 ## 🌐 Socials:
